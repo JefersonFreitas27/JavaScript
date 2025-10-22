@@ -13,4 +13,11 @@ console.log("input")
 querySelector("Trás um elemento, o primeiro que encontrar")
 querySelectorAll("Trás todos os elementos que encontrar")
 
+
+Alterando e acessando textos
+
+textContent-> Pega todo o conteúdo
+innerText-> Leva em conta o css
+innerHTML-> Trás tudo e perimite adicionar html
+
 */
